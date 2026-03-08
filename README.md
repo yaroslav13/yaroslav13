@@ -18,7 +18,7 @@
 
 I am a Flutter developer with around **six years of experience**. Throughout my career, I've been engaged in projects across various domains, including yacht insurance, food delivery, social media, healthcare, hospitality, and education. I have experience with various state management solutions, BaaS platforms, REST API, custom package and plugin development, different architectures, and design patterns.
 
-I'm genuinely curious about how things work under the hood — how async and parallel operations are scheduled on the CPU, how the compiler transforms code, how the garbage collector interacts with native resources. That curiosity also extends to finding clean architectural solutions, scalable design patterns, and ways to reduce unnecessary complexity.
+I'm genuinely curious about how things work under the hood — how async and parallel operations are scheduled on the CPU, how the compiler transforms code, how the garbage collector interacts with native resources, or how graph algorithms can drive a Rive state machine. That curiosity also extends to finding clean architectural solutions, scalable design patterns, and ways to reduce unnecessary complexity. 
 
 On the practical side, I've worked extensively on:
 - 📍 Background location tracking and geofence-based location monitoring
@@ -26,6 +26,8 @@ On the practical side, I've worked extensively on:
 - 🏝️ Live Activities and Dynamic Island widgets built with SwiftUI
 - 🔌 Native plugin development for both iOS and Android (including AOSP)
 - ♿ Full accessibility coverage on iOS and Android
+- 🎭 Rive animations integration
+- 🤖 Face detection using ML Kit
 - 🏗️ Modular, package-driven architectures designed for scalability and reuse
 - 🧪 POC projects to validate ideas and de-risk architectural decisions
 

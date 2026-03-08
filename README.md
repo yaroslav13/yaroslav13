@@ -22,7 +22,7 @@ I'm genuinely curious about how things work under the hood — how async and par
 
 On the practical side, I've worked extensively on:
 - 📍 Background location tracking and geofence-based location monitoring
-- 🎙️ Background audio recording across the full app lifecycle
+- 🎙️ Background audio recording
 - 🏝️ Live Activities and Dynamic Island widgets built with SwiftUI
 - 🔌 Native plugin development for both iOS and Android (including AOSP)
 - ♿ Full accessibility coverage on iOS and Android
